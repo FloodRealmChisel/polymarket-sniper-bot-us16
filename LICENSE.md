@@ -1,4 +1,4 @@
-# 
+# Polymarket automatic Strategy: trailing-stops & scalping-strategies is the best Polymarket strategy, featuring trailing-stops and scalping-strategies. Smart, fast, and optimized
 
 
 
